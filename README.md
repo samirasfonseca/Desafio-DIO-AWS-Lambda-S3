@@ -26,6 +26,8 @@ O objetivo foi criar uma automação simples, onde o envio de arquivos a um buck
 
 ## 🛠️ Passo a Passo da Implementação
 
+![Diagrama](./imagens%20aws/Diagrama.png)
+
 ### 1. Criação do bucket S3
 - Acesse o serviço **Amazon S3** no console da AWS.  
 - Clique em **Criar bucket**.  
